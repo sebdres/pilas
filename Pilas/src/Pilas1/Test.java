@@ -8,7 +8,7 @@ public class Test {
 		
 		p.insertar(10);
 		p.insertar(5);
-		p.insertar(1);
+		p.insertar(6);
 		
 		p.imprimir();
 		
